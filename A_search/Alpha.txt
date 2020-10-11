@@ -1,0 +1,28 @@
+Arad, Bucharest
+Arad, Sibiu, Timisora, Zerind
+140, 118, 75
+366
+Craiova, RV, Pitesti
+366, 317
+160
+Sibiu, Arad, Fagarus, RV
+140, 338, 220
+140
+Fagarus, Sibiu, Bucharest
+338, 450
+239
+RV, Pitesti, Craiova, Sibiu
+414, 366, 220
+317
+Pitesti, Bucharest, Craiova, RV
+418, 455, 414
+100
+Timisora, Arad
+118
+329
+Zerind, Arad
+75
+374
+Bucharest, Fagarus, Pitesti
+450, 418
+0
